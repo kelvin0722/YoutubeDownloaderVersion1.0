@@ -5,5 +5,5 @@
 - Install youtube-dl via pip --- ***pip install youtube-dl***
 
 # How to run the application
-- Activate the virtual environment ---***source env/bin/activate ***
-- Execute the main.py program --- ***python main.py ***
+- Activate the virtual environment --- ***source env/bin/activate***
+- Execute the main.py program --- ***python main.py***
