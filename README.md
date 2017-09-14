@@ -1,6 +1,10 @@
 # YoutubeDownloader
-# Installation of Dependancies if you dont want to use env
-- Create a virtual environment
+
+# Dependancies
+- Tkinter
+# Installation of Dependancies 
+- Install tkinter or check if tkinter is already installed
+- Create a virtual environment ---- ***virtualenv [envname] ***
 - Install pafy via pip --- ***pip install pafy***
 - Install youtube-dl via pip --- ***pip install youtube-dl***
 
